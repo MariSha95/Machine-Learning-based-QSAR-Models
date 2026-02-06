@@ -1,2 +1,6 @@
 # Machine-Learning-based-QSAR-Models-for-Searching-Novel-Human-Aromatase-Inhibitors
 The machine learning models were built on comprehensive CYP19A1 non-steroidal and steroidal inhibitors datasets using various molecular descriptors and fingerprints for model training and chemical space visualization.
+
+
+
+Human aromatase (CYP19A1) presents a key target for treatment hormone dependent breast cancer due to its crucial role in regulation of estrogen biosynthesis. Recently, aromatase inhibitors have gained considerable attention in the field of drug design and pharmacology, as there is a need for novel inhibitors to reduce the side effects and drug resistance of existing generation of aromatase inhibitors. The main idea of our work is to build and evaluate machine learning models for identification molecules with high probability to inhibit human aromatase. The machine learning models were built on comprehensive CYP19A1 non-steroidal and steroidal inhibitors datasets using various molecular descriptors and fingerprints for model training and chemical space visualization. Seven machine learning models were built independently, based on the algorithms of Random Forest, Extra Trees, Adaptive Boosting, Light Gradient Boosting Machine, eXtreme Gradient Boosting, K-Nearest Neighbors, Multilayer Perceptron, for steroidal and non-steroidal molecules. 
